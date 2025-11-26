@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\ofirbend\OneDrive - Intel Corporation\Desktop\MSc\Courses\214.3895_Recommendation_Systems\Project\recsys\src\exp\run1.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
